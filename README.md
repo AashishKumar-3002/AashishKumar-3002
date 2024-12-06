@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AashishKumar-3002&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AashishKumar-3002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/exile_Aashish)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
