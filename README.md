@@ -2,7 +2,7 @@
 
 Hi there! I'm **Aashish Kumar**, a passionate **Full Stack Developer** with a strong focus on **backend development**. I specialize in integrating **AI** and **Machine Learning** solutions into applications. With expertise in **Python**, I enjoy building scalable and efficient backend systems.
 
-- 🔭 I’m currently working on projects involving **AI**, **ML**, and **backend development**.
+- 🔭 I’m currently working on projects involving **AI**, **ML**, and **backend development(Go)**.
 - 🌱 I’m currently learning **Rust** and exploring **Cloud Computing**.
 - 🔬 I'm interested in **research work** in the fields of **AI** and **Machine Learning**.
 - 💬 Ask me about **backend development**, **Python**, **Machine Learning**, **AI integration**, and **DevOps**.
