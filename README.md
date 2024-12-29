@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 
 Hi there! I'm **Aashish Kumar**, a passionate **Full Stack Developer** with a strong focus on **backend development**. I specialize in integrating **AI** and **Machine Learning** solutions into applications. With expertise in **Python**, I enjoy building scalable and efficient backend systems.
 
