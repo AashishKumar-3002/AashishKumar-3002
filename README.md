@@ -5,7 +5,7 @@ Hi there! I'm **Aashish Kumar**, a passionate **Full Stack Developer** with a st
 - 🔭 I’m currently working on projects involving **DevOps**, and **backend development(Go)**.
 - 🌱 I’m currently learning **Rust** and exploring **Cloud Computing**.
 - 🔬 I'm interested in **research work** in the fields of **AI** and **Machine Learning**.
-- 💬 Ask me about **backend development**, **Python**, **Machine Learning**, **AI integration**, and **DevOps**.
+- 💬 Ask me about **backend development**, **Python**, **Machine Learning**, **AI integration**, and **DevOps** .
 - 📫 How to reach me: [Email](mailto:aashish201810kumar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aashish-kumar-iiit/)
 
 ---
