@@ -64,8 +64,6 @@ Hi there! I'm **Aashish Kumar**, a passionate **Full Stack Developer** with a st
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AashishKumar-3002&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AashishKumar-3002&theme=radical&border_radius=1.5" alt="itHub Streak" /></p>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AashishKumar-3002&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
